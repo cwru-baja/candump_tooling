@@ -1,0 +1,6 @@
+numpy
+matplotlib
+pandas
+tqdm
+scipy
+./fused-kalman-localization

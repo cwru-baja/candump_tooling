@@ -1,0 +1,3 @@
+[submodule "fused-kalman-localization"]
+	path = fused-kalman-localization
+	url = git@github.com:Willmac16/fused-kalman-localization.git
